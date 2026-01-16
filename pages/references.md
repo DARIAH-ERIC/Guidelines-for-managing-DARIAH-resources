@@ -13,3 +13,7 @@ Annex 1 DARIAH resources pathways \- information/data flow {#annex-1-dariah-reso
 
 ![image05](../images/image5.png)
 
+
+Resource Catalogue Documentation \[v5.3.0\] [https://madgeek-arc.github.io/resource-catalogue-docs/](https://madgeek-arc.github.io/resource-catalogue-docs/) (accessed January 2026\) 
+
+EURISE Technical Reference: [https://technical-reference.readthedocs.io/en/latest/](https://technical-reference.readthedocs.io/en/latest/) (accessed April 2024\)
