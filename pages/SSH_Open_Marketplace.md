@@ -2,7 +2,6 @@
 layout: default
 title: SSH Open Marketplace
 nav_enabled: true
-nav_order:4
 parent: Services used for managing DARIAH resources
 ---
 
