@@ -6,15 +6,15 @@ nav_enabled: true
 ---
 
 
-# **Introduction** {#introduction}
+# **Introduction**
 
 The distributed and polymorphic nature of DARIAH as a consortium, and its social and technical components as an infrastructure makes it pertinent to define its perimeter. This is especially true with respect to the various resources that are created and used in its environment. The term ***“DARIAH resource”*** does not indicate direct ownership or control by the DARIAH consortium over that resource but rather it being **created and/or used within the broad DARIAH ecosystem**, i.e. some actor (person or institution) related to DARIAH being involved in the creation or provision of that resource. A large majority of DARIAH resources are produced or offered by individual institutions in the member countries and reported by their respective national consortia. Besides that, there are resources produced under DARIAH activities by DARIAH Working Groups, funded by DARIAH Theme or by DARIAH and affiliated entities within EU projects. 
 
-For DARIAH, as an operational ERIC[^1] contributing to the European Open Science Cloud, a comprehensive inventory of the “ecosystem of resources” produced and used in the community is crucial to further build a “coherent RI ecosystem”[^2] for the benefit of researchers. This leads to: a) position DARIAH as a broker or knowledge hub spreading best practices within and between communities; b) improve the integration and/or interoperability of the resources, by identifying and closing incompatibility gaps. 
+For DARIAH, as an operational ERIC[^2] contributing to the European Open Science Cloud, a comprehensive inventory of the “ecosystem of resources” produced and used in the community is crucial to further build a “coherent RI ecosystem”[^3] for the benefit of researchers. This leads to: a) position DARIAH as a broker or knowledge hub spreading best practices within and between communities; b) improve the integration and/or interoperability of the resources, by identifying and closing incompatibility gaps. 
 
 6 main DARIAH resource types are currently identified.
 
-| Resource Type | Generic definition[^3] | DARIAH scope |
+| Resource Type | Generic definition[^4] | DARIAH scope |
 | :---- | :---- | :---- |
 | Publication | Research results published in academic journals or non-peer-reviewed publication repositories such as Zenodo. Example: [10.4000/jtei./4460](http://journals.openedition.org/jtei/4460)  | One of the following applies: result of work in a national consortium or working group funded by DARIAH-EU or a national consortium  a DARIAH-affiliated tool or resource is \*cited/used in them It is written/created by authors affiliated to DARIAH bodies or national consortia. it is about DARIAH/CLARIAH |
 | Dataset | A dataset is a digital object or a collection of digital objects that is generally considered a distinctive body of work. Example: [https://marketplace.sshopencloud.eu/dataset/pNFLh2](https://marketplace.sshopencloud.eu/dataset/pNFLh2) |  |
@@ -36,4 +36,10 @@ Individual pathways are detailed in the present *Guidelines for managing DARIAH 
 
 Complementary to these Guidelines, there are a number of further relevant policy documents that govern the management of DARIAH resources, especially the DARIAH Services [^4]and DARIAH Data policy[^5]. 
 
-[^1]:  See ESFRI Roadmap 2021: [https://roadmap2021.esfri.eu/projects-and-landmarks/browse-the-catalogue/dariah-eric/](https://roadmap2021.esfri.eu/projects-and-landmarks/browse-the-catalogue/dariah-eric/) (accessed September 2022).
+[^2]:  See ESFRI Roadmap 2021: [https://roadmap2021.esfri.eu/projects-and-landmarks/browse-the-catalogue/dariah-eric/](https://roadmap2021.esfri.eu/projects-and-landmarks/browse-the-catalogue/dariah-eric/) (accessed September 2022).
+
+[^3]:  See Making Science happen: [https://www.esfri.eu/sites/default/files/White\_paper\_ESFRI-final.pdf](https://www.esfri.eu/sites/default/files/White_paper_ESFRI-final.pdf) (accessed September 2023). 
+
+[^4]:  EOSC is serving as a reference frame, we aim to align the categorisation of resources with that devised in EOSC, and in the SSH Open Marketplace (catalogue from the SSH Open Cluster. Definitions are coming from the SSH Open Marketplace items types) ([https://marketplace.sshopencloud.eu/about/data-population\#types-of-content),](https://marketplace.sshopencloud.eu/about/data-population#types-of-content) from the EOSC-EU Node resource catalogue ([https://madgeek-arc.github.io/resource-catalogue-docs/](https://madgeek-arc.github.io/resource-catalogue-docs/))  and from the OpenAIRE types ([https://monitor.openaire.eu/methodology/terminology\#entities](https://monitor.openaire.eu/methodology/terminology#entities))
+
+[^5]:   Durco, M., Barbot, L., Tasovac, T., Tóth-Czifra, E., Roi, A., Chambers, S., Benardou, A., Constantopoulos, P., Dobreva, M., Scharnhorst, A., Kálmán, T., Rißler-Pipka, N., & McConville, A. (2023). DARIAH Services Policy. Zenodo. [https://doi.org/10.5281/zenodo.10184825](https://doi.org/10.5281/zenodo.10184825)
