@@ -35,3 +35,5 @@ To collect information about DARIAH Resources, specific "pathways” are propose
 Individual pathways are detailed in the present *Guidelines for managing DARIAH resources*. While section 2 “DARIAH resources pathways” provides an overview of the pathways per resource types, section 3 “Services used for managing DARIAH resources” includes detailed guidelines on how to use the various services involved in all the pathways. 
 
 Complementary to these Guidelines, there are a number of further relevant policy documents that govern the management of DARIAH resources, especially the DARIAH Services [^4]and DARIAH Data policy[^5]. 
+
+[^1]:  See ESFRI Roadmap 2021: [https://roadmap2021.esfri.eu/projects-and-landmarks/browse-the-catalogue/dariah-eric/](https://roadmap2021.esfri.eu/projects-and-landmarks/browse-the-catalogue/dariah-eric/) (accessed September 2022).
