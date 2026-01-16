@@ -26,7 +26,7 @@ If you would like to implement such a technical solution, please contact the SSH
 
 2. ### Manual additions/enrichment (of individual software or service)
 
-How to add resources in the SSH Open Marketplace is explained in the [user documentation](https://marketplace.sshopencloud.eu/contribute/create-an-individual-item)[^6]. 
+How to add resources in the SSH Open Marketplace is explained in the [user documentation](https://marketplace.sshopencloud.eu/contribute/create-an-individual-item)[^7]. 
 
 Specific rules apply for registering a DARIAH resource, and an overview of the metadata recommendations for adding or enriching DARIAH resources to the SSH Open Marketplace is available in the t[able below[^7]. For National DARIAH Resources in the SSH Open Marketplace, refer to these recommendations](https://docs.google.com/presentation/d/1vjG2JDztx4htlkQ4aYqVGYZ1Ge5i6ZfBKJqb8KmohLM/edit?slide=id.g37941ae11d7_0_179#slide=id.g37941ae11d7_0_179).
 
@@ -55,3 +55,5 @@ Specific rules apply for registering a DARIAH resource, and an overview of the m
 | See also  | If relevant | Links to non-MP materials that are relevant |
 | Input Format | If relevant | The file format(s) used for input \- this is especially relevant for tools and services. Uses the [sshomp-format vocabulary](https://vocabs.sshopencloud.eu/browse/sshomp-format/en/).  |
 | Output Format | If relevant | The file format(s) used for output \- this is especially relevant for tools and services. Uses the [sshomp-format vocabulary](https://vocabs.sshopencloud.eu/browse/sshomp-format/en/).  |
+
+[^7]:  [https://marketplace.sshopencloud.eu/contribute/create-an-individual-item](https://marketplace.sshopencloud.eu/contribute/create-an-individual-item)
