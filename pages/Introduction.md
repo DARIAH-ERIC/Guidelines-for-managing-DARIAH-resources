@@ -23,7 +23,7 @@ For DARIAH, as an operational ERIC[^1] contributing to the European Open Science
 | Service | Web application or API which can be accessed online/via Internet. Example: [https://marketplace.sshopencloud.eu/tool-or-service/VjLUsM](https://marketplace.sshopencloud.eu/tool-or-service/VjLUsM) | Service owned by DARIAH-ERIC, DARIAH partner institutions or coming from a DARIAH-related project. See Service policy for inclusion criteria. |
 | Data source | A Data Source is a specific service that exposes metadata about different types of Digital Objects. Examples of data sources are repositories, digital libraries, scientific databases, catalogues, etc. Example: [HAL](https://hal.science/DARIAH) or [https://marketplace.sshopencloud.eu/tool-or-service/hqXyOo](https://marketplace.sshopencloud.eu/tool-or-service/hqXyOo) |  |
 
-![image1](images/image25.png)
+![image1](../images/image25.png)
 
 *Fig 01: DARIAH resources conceptual view*		
 
