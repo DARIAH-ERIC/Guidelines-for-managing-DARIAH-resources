@@ -4,6 +4,7 @@ layout: home
 layout: default
 nav_enabled: true
 nav_order: 0
+logo: "images/logo.png"
 ---
 
 # Guidelines for managing DARIAH resources 
