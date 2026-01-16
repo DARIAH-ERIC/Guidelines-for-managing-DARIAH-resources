@@ -31,13 +31,13 @@ If you already have a HAL account, sign in to [https://hal.science/DARIAH](https
 
 Click on UPLOAD (top right of your screen), choose your document type and provide metadata about the resource
 
- ![image3](../images/image11.png)
+ ![image3](../../images/image11.png)
 
 3. #### Add ‘DARIAH’ to Project collaboration metadata field
 
 Whatever the type of document, you will find this field in “In Other informations”.
 
- ![image3](../images/image14.png)
+ ![image3](../../images/image14.png)
 
 You can also add or create your DARIAH national Project/Collaboration to your deposit (e.g DARIAH-BE, DARIAH-CH, DARIAH-HR…).
 
@@ -49,7 +49,7 @@ Submissions to the community require review performed by the curators, managers 
 
 1. #### Log in to [**DARIAH Zenodo Community**](https://zenodo.org/communities/dariah/)
 
- ![image3](../images/image12.png)
+ ![image3](../../images/image12.png)
 
 2. #### And then simply go to **New upload**, and here, you will have to login to Zenodo ![][image6]
 
@@ -57,11 +57,11 @@ Submissions to the community require review performed by the curators, managers 
 
    If you connect directly to Zenodo (generic), you will have to select DARIAH in the communities banner at the top of the upload screen.
 
- ![image3](/..images/image23.png)
+ ![image3](../../images/image23.png)
 
 You will have to write DARIAH in full \- Digital Research Infrastructure for the Arts and Humanities \- and not only the acronym.
 
- ![image3](../images/image29.png)
+ ![image3](../../images/image29.png)
 
 Note that you can add multiple communities to your deposits at the same time.
 
@@ -73,7 +73,7 @@ If you would like to add records to the DARIAH collection that are already publi
 
 By following this [tutorial](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) \- it is possible to archive a GitHub repository to Zenodo.
 
- ![image3](../images/image7.png)
+ ![image3](../../images/image7.png)
 
 Then, in the same way that for any Zenodo deposit (see previous section), you will be able to select the DARIAH community when creating the record for the release of your software. 
 
@@ -105,7 +105,7 @@ Note that it is also possible to work with Zotero using a local client ([https:/
 
 Once you are logged in, visit the DARIAH Group and click on join, this will allow you to view and **edit** the records in the group. You only need to do this once. After joining, you can find the DARIAH group library in your personal library by logging into Zotero as per the above instructions.
 
- ![image3](../images/image6.jpg) 
+ ![image3](../../images/image6.jpg) 
  
 *Joining the DARIAH Group*
 
@@ -117,7 +117,7 @@ See Zotero documentation to understand how to manually add items to the Group Li
 
 Go to the DARIAH Group Library: [https://www.zotero.org/groups/744474/dariah/library](https://www.zotero.org/groups/744474/dariah/library)
 
- ![image3](../images/image9.jpg) 
+ ![image3](../../images/image9.jpg) 
  
 *DARIAH Group Library screenshot*
 
@@ -125,10 +125,10 @@ Go to the DARIAH Group Library: [https://www.zotero.org/groups/744474/dariah/lib
 
 “The Zotero Connector's save button is the most convenient and reliable way to add items with high-quality bibliographic metadata to your Zotero library. As you browse the web, the Zotero Connector will automatically find bibliographic information on webpages you visit and allow you to add it to Zotero with a single click.” 
 
- ![image3](../images/image27.png) 
+ ![image3](../../images/image27.png) 
 *Save to Zotero via the connector \- step 1*
 
- ![image3](../images/image4.png) 
+ ![image3](../../images/image4.png) 
 
 *Save to Zotero via the connector \- step 2* 
 
@@ -140,11 +140,11 @@ It is also possible to add items manually via the DARIAH Zotero Library (i.e. wi
 
 If your resources have an Identifier \- ISBN, DOI, PubMed ID, arXiv ID, or ADS Bibcode \- it is really straightforward to add them to the library using this button ![][image14]\! This way, Zotero can also sometimes automatically identify resources based on a URL, e.g. to a publication page such as [this](https://journals.uio.no/dhnbpub/article/view/10650).
 
- ![image3](../images/image15.png) 
+ ![image3](../../images/image15.png) 
 
 4. ### Manually adding publication without identifier
 
-It is also possible to manually add items using the following button:  ![image3](../images/image1.png) 
+It is also possible to manually add items using the following button:  ![image3](../../images/image1.png) 
 
 If you have downloaded the client, you can also use the import functions to create a record.
 
@@ -203,13 +203,13 @@ In some cases you want a subset of a specific data source. The EDIT OPTIONS allo
 
 A filter is composed of one field, one operator, and one value.
 
- ![image3](../images/image16.png) 
+ ![image3](../../images/image16.png) 
 
 Different **fields** are available \- text field or controlled vocabulary field \- (abstract, author’s name, author’s ORCID, contributor, field of science, publication year, publisher, subject, Sustainable Development Goal, title) as well as **operators** on both textual and controlled vocabulary fields   (Contains; Equals; Not contains; Not equals;  Starts with).
 
 In the example below of the Text Grid Repo, the filters are based on metadata identifying projects funded by DARIAH DE.
 
- ![image3](../images/image17.png) 
+ ![image3](../../images/image17.png) 
 
 ## 
 
@@ -217,7 +217,7 @@ In the example below of the Text Grid Repo, the filters are based on metadata id
 
 In this section you can specify inclusion criteria in different fields and in combination. Go to Content Configuration \--\> Advanced Criteria to see the currently defined criteria.
 
- ![image3](../images/image21.png) 
+ ![image3](../../images/image21.png) 
 
 Click on EDIT CRITERIA on the top right to make changes.
 
@@ -225,7 +225,7 @@ Click on “+ ADD CRITERION” on the bottom to add a new criterion. A criterion
 
 The following fields are available: Abstract (text); Author’s name (text); Author’s ORCID (text); Contributor (text); Field of Science (controlled vocabulary); Publication Year (number, four digit); Publisher (text); Subject (text); Sustainable Development Goal (controlled vocabulary); Title (text)  as well as **operators** on both textual and controlled vocabulary fields (Contains; Equals; Not contains; Not equals;  Starts with).
 
-** ![image3](../images/image16.png) **
+** ![image3](../../images/image16.png) **
 
 ## **Menu: Content Configuration \--\> Zenodo communities**
 
@@ -235,11 +235,11 @@ Every record deposited in a selected Zenodo community will be included in the ga
 
 You may have a Zenodo community for your community: you can set it as “main Zenodo community”. It will be promoted on the Deposit page.
 
- ![image8](../images/image8.png) 
+ ![image8](../../images/image8.png) 
 
 To add a new Zenodo community: Click on “+ NEW ZENODO COMMUNITY” to add a new one. Type a search term to find relevant Zenodo communities. If you find a relevant community, you can include it by clicking on ADD. If a main Zenodo community is not already set, you have the option to add it as a main community. When you are ready, click on DONE to save your changes.
 
- ![image28](../images/image28.png) 
+ ![image28](../../images/image28.png) 
 
 2. ### Add individual records to DARIAH OpenAIRE Gateway (for researchers)
 
@@ -250,21 +250,21 @@ In case you cannot find your own outputs in the gateway, you can add it via the 
 
   1. #### Find sources. Add the DOI (or other PID) or title, author etc. of the resource and then click on ‘Search’.
 
- ![image20](../images/image20.png) 
+ ![image20](../../images/image20.png) 
 
 Link sources to entities. Click on the ‘+’ symbol on the right side of the search result to move them to your basket and then click on Step 2 “Link sources to entities”. 
 
- ![image19](../images/image19.png) 
+ ![image19](../../images/image19.png) 
 
 2. #### Then, select “Type”: Research products, Projects or Research Communities and enter your entity to link. 
 
 The DARIAH Gateway is selected by default as **Research Community** but here you can link to other communities too. 
 
- ![image10](../images/image10.png) 
+ ![image10](../../images/image10.png) 
 
 3. #### Summarize and finish. Click on “Confirm linking”
 
- ![image27](../images/image27.png) 
+ ![image27](../../images/image27.png) 
 
 For more information, you can visit: [ttps://www.openaire.eu/research-community-gateway-guide](https://www.openaire.eu/research-community-gateway-guide) 
 
