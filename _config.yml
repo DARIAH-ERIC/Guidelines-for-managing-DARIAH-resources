@@ -1,10 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Guidelines for managing DARIAH resources 
+description: Guidelines for managing DARIAH resources using the Just the Docs theme
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://dariah-eric.github.io/Guidelines-for-managing-DARIAH-resources/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 color_scheme: dariah
+logo: images/logo.png
