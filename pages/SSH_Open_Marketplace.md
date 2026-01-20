@@ -3,7 +3,7 @@ layout: default
 title: SSH Open Marketplace
 nav_enabled: true
 parent: Services used for managing DARIAH resources
-nav_order: 1
+nav_order: 0
 ---
 
 The SSH Open Marketplace is a discovery portal which pools and contextualises resources for Social Sciences and Humanities research communities: **tools, services, training materials, datasets, publications and workflows**.
