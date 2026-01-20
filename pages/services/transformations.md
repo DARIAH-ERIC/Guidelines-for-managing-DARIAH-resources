@@ -3,7 +3,7 @@ layout: default
 title: DARIAH overlay journal - Transformations
 nav_enabled: true
 parent: Services used for managing DARIAH resources
-nav_oder: 3
+nav_oder: 4
 ---
 
 ## DARIAH overlay journal \- Transformations
