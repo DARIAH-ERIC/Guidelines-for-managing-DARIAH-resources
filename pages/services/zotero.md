@@ -3,7 +3,7 @@ layout: default
 title: DARIAH Zotero Library
 nav_enabled: true
 parent: Services used for managing DARIAH resources
-nav_oder: 5
+nav_order: 5
 ---
 
 ## DARIAH Zotero Library
