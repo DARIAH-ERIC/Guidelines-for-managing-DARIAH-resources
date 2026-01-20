@@ -3,7 +3,7 @@ layout: default
 title: DARIAH-Campus
 nav_enabled: true
 parent: Services used for managing DARIAH resources
-nav_oder: 2
+nav_oder: 1
 ---
 
  ## DARIAH-Campus
