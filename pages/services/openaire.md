@@ -3,7 +3,7 @@ layout: default
 title: DARIAH OpenAIRE Gateway
 nav_enabled: true
 parent: Services used for managing DARIAH resources
-nav_oder: 7
+nav_oder: 5
 ---
 
 ## DARIAH OpenAIRE Gateway
