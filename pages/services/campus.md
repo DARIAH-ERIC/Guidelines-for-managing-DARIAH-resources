@@ -1,12 +1,12 @@
 ---
 layout: default
-title: DARIAH recommended repositories
+title: DARIAH-Campus
 nav_enabled: true
 parent: Services used for managing DARIAH resources
 nav_oder: 2
 ---
 
- ## DARIAH-Campus {#dariah-campus}
+ ## DARIAH-Campus
 
 [**https://campus.dariah.eu**](https://campus.dariah.eu/docs/proposing-a-contribution)
 
@@ -22,4 +22,8 @@ Within DARIAH-Campus, users can find different types of **learning resources:**
 
 and **captured outputs of face-to-face events** run by members of the community.
 
- ![image2](images/image2.png) 
+ ![image2](../../images/image2.png) 
+
+## The route to publication on DARIAH-Campus
+DARIAH-Campus is hosted on GitHub, making it versionable and open to contributions.  However, it requires permissions in order to allow contributions, and this is given as part of the editorial process.
+In the first instance, users should head to the documentation on the Campus website, which gives information about how to make a contribution via the GitHub interface (Guidelines: https://campus.dariah.eu/documentation/proposing-a-contribution) 
