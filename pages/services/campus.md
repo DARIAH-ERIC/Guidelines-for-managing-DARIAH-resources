@@ -6,7 +6,7 @@ parent: Services used for managing DARIAH resources
 nav_order: 2
 ---
 
- ## DARIAH-Campus
+## DARIAH-Campus
 
 [**https://campus.dariah.eu**](https://campus.dariah.eu/docs/proposing-a-contribution)
 
