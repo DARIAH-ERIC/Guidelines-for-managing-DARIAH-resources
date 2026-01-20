@@ -3,7 +3,7 @@ layout: default
 title: Software Heritage
 nav_enabled: true
 parent: Services used for managing DARIAH resources
-nav_oder: 3
+nav_oder: 6
 ---
 
 
