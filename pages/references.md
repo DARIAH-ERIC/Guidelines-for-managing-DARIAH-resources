@@ -1,6 +1,6 @@
 ---
 layout: default
-title: References
+title: Annexes
 nav_enabled: true
 nav_oder: 6
 ---
