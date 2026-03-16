@@ -21,7 +21,7 @@ DARIAH members and partners contribute to the DARIAH infrastructure with a diver
 
 2. ### HAL (DARIAH Collection)
 
-DARIAH offers researchers in the arts and humanities to use the HAL **publication repository**: [**https://hal.science/DARIAH**](https://hal.science/DARIAH).
+DARIAH offers researchers in the arts and humanities to use the HAL **repository**: [**https://hal.science/DARIAH**](https://hal.science/DARIAH).
 
 1. #### Log in to [HAL DARIAH collection](https://hal.science/DARIAH)
 
