@@ -9,6 +9,6 @@ logo: "images/logo.png"
 
 # Guidelines for managing DARIAH resources 
 
-## Contributors: Matej Durco, Laure Barbot, Françoise Gouzi, Edward Gray, Michael Kurzmeier, Vicky Garnett.... [add your name]
+## Contributors: Matej Durco, Laure Barbot, Françoise Gouzi, Edward Gray, Michael Kurzmeier, Vicky Garnett.
 
 
