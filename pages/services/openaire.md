@@ -39,7 +39,7 @@ It might mean that you have to upgrade your data source to make it compliant. Tw
 
 **Configuration of Data sources[^8]**
 
-To **focus on DARIAH content only**, you may use the filters functionality or the Advanced Criteria.
+To **focus on DARIAH content only**, you may use the filters functionality or the Advanced Criteria.[^9]
 
 ### **Menu: Content Configuration \--\> Data sources**
 
@@ -113,3 +113,5 @@ The DARIAH Gateway is selected by default as **Research Community** but here you
 For more information, you can visit: [ttps://www.openaire.eu/research-community-gateway-guide](https://www.openaire.eu/research-community-gateway-guide) 
 
 [^8]:  See also OpenAire documentation: [https://graph.openaire.eu/docs/data-model/entities/data-source/](https://graph.openaire.eu/docs/data-model/entities/data-source/); [https://www.openaire.eu/openaire-guidelines-for-literature-institutional-and-thematic-repositories](https://www.openaire.eu/openaire-guidelines-for-literature-institutional-and-thematic-repositories); [https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/](https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/) (accessed April 2025\)
+
+[^9]:  [OpenAIRE CONNECT tutorial - How to add data sources](https://youtu.be/2cpW2vwvQEQ?si=Es5rLT5dcfRclMh6) and to configure them. And **Guide for OpenAIRE CONNECT Gateway curators**, [https://openplato.eu/course/view.php?id=128](https://openplato.eu/course/view.php?id=128) (Connect with your institution)
