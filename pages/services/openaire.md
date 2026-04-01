@@ -69,7 +69,7 @@ Click on “+ ADD CRITERION” on the bottom to add a new criterion. A criterion
 
 The following fields are available: Abstract (text); Author’s name (text); Author’s ORCID (text); Contributor (text); Field of Science (controlled vocabulary); Publication Year (number, four digit); Publisher (text); Subject (text); Sustainable Development Goal (controlled vocabulary); Title (text)  as well as **operators** on both textual and controlled vocabulary fields (Contains; Equals; Not contains; Not equals;  Starts with).
 
-** ![image3](../../images/image16.png) **
+![image3](../../images/image16.png)
 
 ## **Menu: Content Configuration \--\> Zenodo communities**
 
