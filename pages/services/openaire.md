@@ -55,7 +55,6 @@ In the example below of the Text Grid Repo, the filters are based on metadata id
 
  ![image3](../../images/image17.png) 
 
-## 
 
 ## **Menu: Content Configuration \--\> Advanced Criteria**
 
