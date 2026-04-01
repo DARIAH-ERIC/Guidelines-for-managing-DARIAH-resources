@@ -47,13 +47,13 @@ In some cases you want a subset of a specific data source. The EDIT OPTIONS allo
 
 A filter is composed of one field, one operator, and one value.
 
- ![image3](../images/image16.png) 
+ ![image3](../../images/image16.png) 
 
 Different **fields** are available \- text field or controlled vocabulary field \- (abstract, author’s name, author’s ORCID, contributor, field of science, publication year, publisher, subject, Sustainable Development Goal, title) as well as **operators** on both textual and controlled vocabulary fields   (Contains; Equals; Not contains; Not equals;  Starts with).
 
 In the example below of the Text Grid Repo, the filters are based on metadata identifying projects funded by DARIAH DE.
 
- ![image3](../images/image17.png) 
+ ![image3](../../images/image17.png) 
 
 ## 
 
@@ -61,7 +61,7 @@ In the example below of the Text Grid Repo, the filters are based on metadata id
 
 In this section you can specify inclusion criteria in different fields and in combination. Go to Content Configuration \--\> Advanced Criteria to see the currently defined criteria.
 
- ![image3](../images/image21.png) 
+ ![image3](../../images/image21.png) 
 
 Click on EDIT CRITERIA on the top right to make changes.
 
@@ -69,7 +69,7 @@ Click on “+ ADD CRITERION” on the bottom to add a new criterion. A criterion
 
 The following fields are available: Abstract (text); Author’s name (text); Author’s ORCID (text); Contributor (text); Field of Science (controlled vocabulary); Publication Year (number, four digit); Publisher (text); Subject (text); Sustainable Development Goal (controlled vocabulary); Title (text)  as well as **operators** on both textual and controlled vocabulary fields (Contains; Equals; Not contains; Not equals;  Starts with).
 
-** ![image3](../images/image16.png) **
+** ![image3](../../images/image16.png) **
 
 ## **Menu: Content Configuration \--\> Zenodo communities**
 
@@ -79,11 +79,11 @@ Every record deposited in a selected Zenodo community will be included in the ga
 
 You may have a Zenodo community for your community: you can set it as “main Zenodo community”. It will be promoted on the Deposit page.
 
- ![image8](../images/image8.png) 
+ ![image8](../../images/image8.png) 
 
 To add a new Zenodo community: Click on “+ NEW ZENODO COMMUNITY” to add a new one. Type a search term to find relevant Zenodo communities. If you find a relevant community, you can include it by clicking on ADD. If a main Zenodo community is not already set, you have the option to add it as a main community. When you are ready, click on DONE to save your changes.
 
- ![image28](../images/image28.png) 
+ ![image28](../../images/image28.png) 
 
 2. ### Add individual records to DARIAH OpenAIRE Gateway (for researchers)
 
@@ -94,21 +94,21 @@ In case you cannot find your own outputs in the gateway, you can add it via the 
 
   1. #### Find sources. Add the DOI (or other PID) or title, author etc. of the resource and then click on ‘Search’.
 
- ![image20](../images/image20.png) 
+ ![image20](../../images/image20.png) 
 
 Link sources to entities. Click on the ‘+’ symbol on the right side of the search result to move them to your basket and then click on Step 2 “Link sources to entities”. 
 
- ![image19](../images/image19.png) 
+ ![image19](../../images/image19.png) 
 
 2. #### Then, select “Type”: Research products, Projects or Research Communities and enter your entity to link. 
 
 The DARIAH Gateway is selected by default as **Research Community** but here you can link to other communities too. 
 
- ![image10](../images/image10.png) 
+ ![image10](../../images/image10.png) 
 
 3. #### Summarize and finish. Click on “Confirm linking”
 
- ![image27](../images/image27.png) 
+ ![image27](../../images/image27.png) 
 
 For more information, you can visit: [ttps://www.openaire.eu/research-community-gateway-guide](https://www.openaire.eu/research-community-gateway-guide) 
 
