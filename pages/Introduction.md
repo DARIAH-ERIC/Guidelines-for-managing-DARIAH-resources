@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: DARIAH Resources
 nav_order: 2
 layout: default
 nav_enabled: true
